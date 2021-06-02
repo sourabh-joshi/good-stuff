@@ -5,6 +5,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 - [ReactJS](#reactjs)
 - [Markdown](#markdown)
+- [Web Technologies](#web-technologies)
 
 ### ReactJS
 1. [A complete guide to use effect](https://overreacted.io/a-complete-guide-to-useeffect)
@@ -12,3 +13,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 ### Markdown
 1. [Interactive tutorial to markdwon](https://commonmark.org/help/tutorial)
+
+
+### Web Technologies
+1. [Amazing vlogs with sarcasm](https://briefs.video)
