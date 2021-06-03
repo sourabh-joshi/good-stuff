@@ -6,6 +6,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 - [ReactJS](#reactjs)
 - [Markdown](#markdown)
 - [Web Technologies](#web-technologies)
+- [Web Privacy](#web-privacy)
 
 ### ReactJS
 1. [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
@@ -18,3 +19,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 ### Web Technologies
 1. [Amazing vlogs with sarcasm](https://briefs.video)
+
+
+### Web Privacy
+1. [Extension which will automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon)
