@@ -8,7 +8,8 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 - [Web Technologies](#web-technologies)
 
 ### ReactJS
-1. [A complete guide to use effect](https://overreacted.io/a-complete-guide-to-useeffect)
+1. [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
+2. [Tutorial covering all the tools one might need to build a React App](https://btholt.github.io/complete-intro-to-react-v6)
 
 
 ### Markdown
