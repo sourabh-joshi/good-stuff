@@ -7,6 +7,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 - [Markdown](#markdown)
 - [Web Technologies](#web-technologies)
 - [Web Privacy](#web-privacy)
+- [Finance](#finance)
 
 ### ReactJS
 1. [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
@@ -23,3 +24,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 ### Web Privacy
 1. [Extension which will automatically remove tracking elements from URLs](https://github.com/ClearURLs/Addon)
+
+
+### Finance 
+1. [What and Why of FI/RE?](https://fiindia.gitbook.io/wiki)
