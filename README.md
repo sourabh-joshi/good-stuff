@@ -4,6 +4,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 ## Contents
 
 - [HTML & CSS](#html--css)
+- [Javascript](#javascript)
 - [ReactJS](#reactjs)
 - [Markdown](#markdown)
 - [Web Technologies](#web-technologies)
@@ -12,6 +13,11 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 ### HTML & CSS
 1. [Ridiculously detailed explanation on writing *alt* text for images](https://html.spec.whatwg.org/multipage/images.html#alt)
+
+
+### Javascript
+1. [Javascript Equality Table](https://dorey.github.io/JavaScript-Equality-Table)
+
 
 ### ReactJS
 1. [A complete guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect)
