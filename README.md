@@ -10,6 +10,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 - [Web Technologies](#web-technologies)
 - [Web Privacy](#web-privacy)
 - [Finance](#finance)
+- [General](#general)
 
 ### HTML & CSS
 1. [Ridiculously detailed explanation on writing *alt* text for images](https://html.spec.whatwg.org/multipage/images.html#alt)
@@ -38,3 +39,7 @@ Curated list of articles and videos of stuff I have browsed and found interestin
 
 ### Finance 
 1. [What and Why of FI/RE?](https://fiindia.gitbook.io/wiki)
+
+
+### General
+1. [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes)
